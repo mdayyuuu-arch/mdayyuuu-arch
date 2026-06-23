@@ -1,5 +1,3 @@
-cd ~/mdayyuuu-arch
-cat > README.md << 'EOF'
 # Hi, I'm Mohammed Ayaan 👋
 
 **Mohammed Ayaan** is a Full Stack AI Engineer, Ethical Hacker, and Mechanical Engineering Student from Hyderabad, India.
@@ -19,4 +17,3 @@ cat > README.md << 'EOF'
 
 ## 🛠️ Skills
 `Python` `Flask` `React` `AI/ML` `Computer Vision` `Ethical Hacking` `AWS` `GCP`
-EOF
