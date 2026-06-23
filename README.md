@@ -1,16 +1,22 @@
-## Hi there 👋
+cd ~/mdayyuuu-arch
+cat > README.md << 'EOF'
+# Hi, I'm Mohammed Ayaan 👋
 
-<!--
-**mdayyuuu-arch/mdayyuuu-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mohammed Ayaan** is a Full Stack AI Engineer, Ethical Hacker, and Mechanical Engineering Student from Hyderabad, India.
 
-Here are some ideas to get you started:
+## 🚀 About Mohammed Ayaan
+- 🎓 Mechanical Engineering Student @ MCET Hyderabad
+- 🤖 Full Stack AI Engineer | Python | Flask | React
+- 🔐 Ethical Hacker | TryHackMe Top 4% Globally
+- 🛡️ Creator of PhantomScan — Pentesting Toolkit
+- 🏭 Founder of Mech Fusion — Robotics & 3D Printing Club
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 🌐 Portfolio: [mdayyuuu-arch.github.io](https://mdayyuuu-arch.github.io)
+- 💼 LinkedIn: [Mohammed Ayaan](https://linkedin.com/in/mohammed-ayaan01)
+- 🎯 TryHackMe: [Mohammed Ayaan](https://tryhackme.com/p/pvt1iamayaan)
+- 📊 Kaggle: [Mohammed Ayaan](https://kaggle.com/iamayaan)
+
+## 🛠️ Skills
+`Python` `Flask` `React` `AI/ML` `Computer Vision` `Ethical Hacking` `AWS` `GCP`
+EOF
