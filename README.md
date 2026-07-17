@@ -18,8 +18,15 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdayyuuu-arch&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayyuuu-arch&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=mdayyuuu-arch&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.cl4ptp.workers.dev/api?username=mdayyuuu-arch&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+---
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdayyuuu-arch&theme=tokyo-night&hide_border=true" width="100%"/>
 
 ---
 
@@ -63,7 +70,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect
 
 [
 
@@ -80,10 +87,5 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ](https://tryhackme.com/p/pvt1iamayaan)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/mdayyuuu-arch)
 
 </div>
