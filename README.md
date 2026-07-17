@@ -1,10 +1,12 @@
+<div align="center">
+
 # 👋 Hi, I'm Mohammed Ayaan
 
 **Full Stack AI Engineer | Ethical Hacker | MCET Hyderabad**
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 - 🎓 Mechanical Engineering Student @ MCET Hyderabad
 - 🤖 Full Stack AI Engineer | Python | Flask | React
 - 🔐 Ethical Hacker | TryHackMe Top 4% Globally
@@ -14,7 +16,21 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=mdayyuuu-arch&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.cl4ptp.workers.dev/api?username=mdayyuuu-arch&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+---
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdayyuuu-arch&theme=tokyo-night&hide_border=true" width="100%"/>
+
+---
+
+### 🛠️ Tech Stack
 
 
 
@@ -48,18 +64,13 @@
 
 
 
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
-
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
 
 ---
 
-## 🔗 Connect
+### 🔗 Connect
 
 [
 
@@ -76,8 +87,5 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ](https://tryhackme.com/p/pvt1iamayaan)
-[
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/mdayyuuu-arch)
+</div>
