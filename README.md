@@ -1,9 +1,5 @@
 # Hi, I'm Mohammed Ayaan 👋
 
-**Mohammed Ayaan** — Full Stack AI Engineer | Ethical Hacker | Hyderabad, India
-
----
-
 ## 🧠 About Me
 - 🎓 Mechanical Engineering Student @ MCET Hyderabad
 - 🤖 Full Stack AI Engineer | Python | Flask | React
@@ -12,36 +8,27 @@
 - 🏭 Founder of Mech Fusion — Robotics & 3D Printing Club
 - ☁️ AWS & GCP Certified
 
----
-
 ## 📊 GitHub Stats
 
 
-
-![Mohammed Ayaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdayyuuu-arch&show_icons=true&theme=radical)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=mdayyuuu-arch&show_icons=true&theme=radical)
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdayyuuu-arch&layout=compact&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdayyuuu-arch&layout=compact&theme=radical)
 
 
-
----
 
 ## 📈 GitHub Activity Graph
 
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdayyuuu-arch&theme=react-dark)
-
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdayyuuu-arch&theme=react-dark)
 
 
----
 
 ## 🛠️ Tech Stack
-
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,9 +55,7 @@
 
 
 
----
-
 ## 🔗 Links
-- 🌐 Portfolio: [mdayyuuu-arch.github.io](https://mdayyuuu-arch.github.io)
-- 💼 LinkedIn: [Mohammed Ayaan](https://linkedin.com/in/mohammed-ayaan01)
-- 🎯 TryHackMe: [Mohammed Ayaan](https://tryhackme.com/p/pvt1iamayaan)
+- 🌐 [Portfolio](https://mdayyuuu-arch.github.io)
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-ayaan01)
+- 🎯 [TryHackMe](https://tryhackme.com/p/pvt1iamayaan)
