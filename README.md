@@ -2,18 +2,12 @@
 
 # 👋 Hi, I'm Mohammed Ayaan
 
-### Full Stack AI Engineer | Ethical Hacker | MCET Hyderabad
-
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&width=600&lines=Full+Stack+AI+Engineer;Ethical+Hacker+%7C+TryHackMe+Top+4%25;Creator+of+PhantomScan;Founder+%40MechFusion+MCET)
-
-
+**Full Stack AI Engineer | Ethical Hacker | MCET Hyderabad**
 
 ---
 
-## 🧠 About Me
-- 🎓 Mechanical Engineering Student @ MCET Hyderabad  
+### 🧠 About Me
+- 🎓 Mechanical Engineering Student @ MCET Hyderabad
 - 🤖 Full Stack AI Engineer | Python | Flask | React
 - 🔐 Ethical Hacker | TryHackMe Top 4% Globally
 - 🛡️ Creator of PhantomScan
@@ -22,23 +16,14 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mdayyuuu-arch&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-
-
-
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdayyuuu-arch&layout=compact&theme=radical&hide_border=true)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=mdayyuuu-arch&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayyuuu-arch&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 
 
@@ -71,13 +56,18 @@
 
 
 
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
+
 ---
 
-## 🔗 Connect
+### 🔗 Connect With Me
 
 [
 
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)
 
 ](https://mdayyuuu-arch.github.io)
 [
@@ -90,5 +80,10 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ](https://tryhackme.com/p/pvt1iamayaan)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/mdayyuuu-arch)
 
 </div>
